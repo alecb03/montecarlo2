@@ -130,7 +130,7 @@ class IsingHamiltonian:
         EE = 0.0
         MM = 0.0
 
-        conf = montecarlo.BitString(self.N)
+        conf = BitString(self.N)
 
         for i in range(2 ** conf.N):
             conf.set_int_config(i)
