@@ -7,5 +7,5 @@ API Documentation
    montecarlo2.ising
    montecarlo2.bs
    montecarlo2.functions
-
+   
 
