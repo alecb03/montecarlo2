@@ -9,4 +9,8 @@ dependencies:
 
     # Pip-only installs
   #- pip:
+numpy
+matplotlib
+sphinx
+sphinx_rtd_theme
 
