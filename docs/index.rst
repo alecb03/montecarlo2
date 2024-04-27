@@ -5,7 +5,8 @@
 
 Welcome to montecarlo2's documentation!
 =========================================================
-
+montecarlo2 is a python package designed to compute 
+a montecarlo based on ising hameltonians and bitstring
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
