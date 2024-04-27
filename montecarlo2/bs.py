@@ -11,7 +11,7 @@ class BitString:
         ----------
         N: Number of bits in bit string
 
-        Self: Refers to the object
+        Self: Refers to the object 
         """
         self.N = N
         self.config = np.zeros(N, dtype=int) 
