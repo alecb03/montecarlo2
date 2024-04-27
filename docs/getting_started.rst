@@ -1,4 +1,4 @@
 Getting Started
 ===============
 
-This page details how to get started with montecarlo2. 
+Once installed, you can use the package.
